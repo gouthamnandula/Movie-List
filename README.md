@@ -2,8 +2,12 @@
 
 A modern movie search and favorites app built with React. This app allows users to browse popular movies, search by title, and maintain a list of favorite movies — all with a clean UI and smooth experience.
 
-![Home page](image-1.png)
-![Favorites page](image-2.png)
+![image](https://github.com/user-attachments/assets/45831313-e29d-4870-b67b-01f045c70093)
+![image](https://github.com/user-attachments/assets/8e225ef5-7457-4397-8cf9-4e5b8fd782de)
+![image](https://github.com/user-attachments/assets/416f2a75-ad0f-443d-8002-d1f48b80fccf)
+
+
+
 
 
 ## 🚀 Features
