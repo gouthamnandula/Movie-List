@@ -2,6 +2,10 @@
 
 A modern, responsive movie discovery application built with React that allows users to search for movies and maintain a personal favorites collection.
 
+## 🌐 Live Demo
+
+**[🚀 Try the App Live](https://movie-list-1-g1b7.onrender.com/)** - Experience the full functionality right now!
+
 ![Movie App Preview](https://github.com/user-attachments/assets/45831313-e29d-4870-b67b-01f045c70093)
 
 ## ✨ Features
