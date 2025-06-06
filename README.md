@@ -27,8 +27,6 @@ A modern movie search and favorites app built with React. This app allows users 
 
 ## 📸 Preview
 
-> Add a deployed link or screenshot GIF if available
-
 Try it live: [your-deployment-link](https://your-deployment-link.com)
 
 ## 📂 Folder Structure
